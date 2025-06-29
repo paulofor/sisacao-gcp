@@ -1,0 +1,6 @@
+yfinance
+pandas
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-storage
+pytz
